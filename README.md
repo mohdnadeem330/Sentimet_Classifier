@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for [this](https://youtu.be/H6ii7NFdDeg) video on Youtube by Siraj Raval. 
+ 
 
 This repository contains a [jupyter][jupyter] notebook and the necessary data to implement
 sentiment analysis of tweets using Logistic Regression. Please open the notebook
