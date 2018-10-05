@@ -48,4 +48,4 @@ work with **English twits**.
 
 ## Credits
 
-Credits for this code go to [guillermo-carrasco](https://github.com/guillermo-carrasco/logistic-sentiment)
+Credits for this code go to siraj raval I merely made a wrapper
